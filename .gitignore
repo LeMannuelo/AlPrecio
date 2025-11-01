@@ -1,0 +1,57 @@
+### Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Build / packaging
+build/
+dist/
+*.egg-info/
+
+### Environments
+.env
+env/
+venv/
+.venv/
+
+### IDEs / editors
+.idea/
+.vscode/
+
+### caches
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+### Project data / DB
+*.sqlite3
+db.sqlite3
+
+### Pickled models and serialized weights
+*.pkl
+src/ensemble_model.pkl
+src/random_forest_model.pkl
+
+### Memory/runtime state files
+memory.json
+src/memory.json
+AlPrecio/memory.json
+**/memory.json
+
+### Modules
+src/Modal Backup/
+src/products_vectorstore/
+AlPrecio/products_vectorstore/
+products_vectorstore/
+
+### Virtual environment(s)
+AlPrecio/venv/
+venv/
+.venv/
+
+### Other 
+vector_db/
+chroma.sqlite3
+model_cache/
+.gradio/
+wandb/
