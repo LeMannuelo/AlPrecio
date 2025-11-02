@@ -30,7 +30,8 @@ Modelos y activos externos (Ambos en móduilo src/)
 Sistema de Notificaciones
 - Mediante el servicio Pushover se realiza una notificación a los dispositivos suscritos al canal de mensajería, se notifica cada que la aplicación completa una ejecución
 
-![Notificación Push](Notification.png)
+![Notificación Push](Notification.jpg)
 
 Nota importante:
 Este proyecto fue elaborado a partir del proyecto final del curso "LLM Engineering: Master AI, Large Language Models & Agents" por Ed Donner, y a partir de ese punto se desarrolló y adaptó con trabajo propio para llegar a la versión actual.
+
