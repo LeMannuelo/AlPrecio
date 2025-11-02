@@ -32,6 +32,7 @@ Sistema de Notificaciones
 
 ![Notificación Push](Notification.jpg)
 
-Nota importante:
+## Nota importante:
 Este proyecto fue elaborado a partir del proyecto final del curso "LLM Engineering: Master AI, Large Language Models & Agents" por Ed Donner, y a partir de ese punto se desarrolló y adaptó con trabajo propio para llegar a la versión actual.
+
 
